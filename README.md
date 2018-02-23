@@ -6,4 +6,4 @@
 
 3. I don't have any copyrights for any of the contents that i used in this project , i have just downloaded it form the internet.
 
-4. Database file is in th folder # DATABASE
+4. Database file is in th folder #"DATABASE" , import it in the database using "phpmyadmin" . Database name is used in this project is "digitalration".
