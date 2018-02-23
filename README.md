@@ -1,7 +1,7 @@
-# project
-My Projects and code samples will be published here . 
-All My projects are free and opensource if no restrictions are specified.
+This is the source code for the project i have done in my B.Tech final Year project
 
-The code i uploaded may or may not be my creation , Each code will have it's own T&C . 
-Any violation to that done by you will be at your own risk and responsibility . 
-This person/account will not be responsilbe for that . For any clarification please mail to mail@arunov.com or visit https://www.arunov.com/
+# All of the php codes are done by me ,  there are mistakes and improvements can be made in current code to improve security.
+
+# Posting this project here is just to share the code to other team mates of my Project Team.
+
+# I don't have any copyrights for any of the contents that i used in this project , i have just downloaded it form the internet.
